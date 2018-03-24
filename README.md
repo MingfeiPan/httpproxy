@@ -1,4 +1,4 @@
 # httpproxy
 
-usage: python3 proxy.py [spcific port]
+usage: python3 proxy.py [specific port]
 
